@@ -2,8 +2,8 @@
 
 html {
 	width: 100%;
-	
-  background-image: url("Images/background.jpg");
+
+  background-image: url("images/background.jpg");
   font-family: 'HelveticaNeue-Light', Helvetica;
   font-weight: 100;
   -webkit-font-smoothing: antialiased;
@@ -12,7 +12,7 @@ html {
 body {
 	width: 100%;
 	margin: 0;
-	
+
 }
 
 .wrapper {
@@ -117,7 +117,7 @@ body {
 	color:	#000000;
   font-size: 30px;
 	margin: 10px 0 20px 0;
-	
+
 }
 
 .form h2 {
@@ -231,17 +231,17 @@ color:white;
 
 .white {
   color: white;
-  
+
  }
- 
- 
+
+
  .black {
-	color : black; 
+	color : black;
 	font-size : 18px;
  }
- 
+
  .blockclass {
-	 color : black; 
+	 color : black;
 	font-size : 30px;
  }
 
